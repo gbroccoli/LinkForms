@@ -1,0 +1,13 @@
+dist/
+*.zip
+*.new
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+configuration.php
+.env*
+*.log
+*.xlsx
